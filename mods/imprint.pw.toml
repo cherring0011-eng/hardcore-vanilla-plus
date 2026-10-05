@@ -1,0 +1,13 @@
+name = "Imprint"
+filename = "imprint-1.4-fabric+26.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vej1VqC3/versions/YS4hRDXR/imprint-1.4-fabric%2B26.2.jar"
+hash-format = "sha512"
+hash = "c136b711887a673eb16817acfab0398b274e05590db2b3da5795f04031b32a444d44b97c8b0d9339a7f9c6bacf47fcf1ba9e7fb82e622cdfcbd000349a961591"
+
+[update]
+[update.modrinth]
+mod-id = "vej1VqC3"
+version = "YS4hRDXR"

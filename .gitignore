@@ -1,0 +1,16 @@
+# packwiz exports and installer artifacts
+*.mrpack
+*.zip
+packwiz-installer.jar
+packwiz-installer-bootstrap.jar
+packwiz.json
+
+# Downloaded mod binaries (packwiz only tracks .pw.toml metadata)
+*.jar
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp

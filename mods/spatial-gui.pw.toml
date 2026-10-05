@@ -1,0 +1,13 @@
+name = "Spatial GUI"
+filename = "spatial-gui-1.6+26.2-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zLBn2IE4/versions/QlNiyeqa/spatial-gui-1.6%2B26.2-fabric.jar"
+hash-format = "sha512"
+hash = "1e40f85a370ca311278870dd51485da3f6aac67c8b67f45c6b0c550fa2d11031adb7483471d8d009a7f4d99ca154e44ec4ffc605c34bc7eade58c815cf0aaa30"
+
+[update]
+[update.modrinth]
+mod-id = "zLBn2IE4"
+version = "QlNiyeqa"

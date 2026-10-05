@@ -1,0 +1,13 @@
+name = "Shared Health"
+filename = "sharedhealth-1.2.12.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/xzHWwh0L/versions/IJ1hbDL0/sharedhealth-1.2.12.jar"
+hash-format = "sha512"
+hash = "d89c1eb8b3eb1c4e59ec30aa992bb5f3a0d60e24966e1acc7728424f3146c6a2bac89baa0a13bf21f2b8e4236886f4435e179e2d7bb02791b0f6ffe61d61760b"
+
+[update]
+[update.modrinth]
+mod-id = "xzHWwh0L"
+version = "IJ1hbDL0"
