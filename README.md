@@ -33,6 +33,7 @@ The goal is vanilla gameplay that looks, sounds and runs better, plus a shared-h
 | GUI / QoL | Controlling | client |
 | GUI / QoL | Mouse Tweaks | client |
 | GUI / QoL | Leaves Be Gone | both |
+| GUI / QoL | JEI (Just Enough Items) | both |
 | Map | Xaero's Minimap | client |
 | Map | Xaero's World Map | client |
 
@@ -40,7 +41,9 @@ The goal is vanilla gameplay that looks, sounds and runs better, plus a shared-h
 
 **Libraries pulled in automatically:** Fabric Language Kotlin, Fzzy Config, CreativeCore, Not Enough Animations, Text Placeholder API, Searchables, Forge Config API Port, Puzzles Lib.
 
-**Not yet available for 26.2** (will be added once Fabric 26.2 builds exist): Enhanced Block Entities, Traveler's Titles, YUNG's Better Caves, YUNG's Better Mineshafts, YUNG's Better Dungeons, EMI.
+**Not yet available for 26.2** (to be ported to 26.2 Fabric and added later): Enhanced Block Entities, Traveler's Titles, YUNG's Better Caves, YUNG's Better Mineshafts, YUNG's Better Dungeons.
+
+**Replaced:** EMI has no 26.2 build, so the pack uses **JEI** as its recipe viewer. JEI is also installed on the server, because since 1.21.2 the server must send recipe data to clients.
 
 ## Installing (friends): Prism Launcher
 
