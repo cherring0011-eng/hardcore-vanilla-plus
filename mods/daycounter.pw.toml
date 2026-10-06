@@ -1,0 +1,13 @@
+name = "Day Counter (Original)"
+filename = "daycounter-4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/RWVRgj8Z/versions/ummPPuQv/daycounter-4.jar"
+hash-format = "sha512"
+hash = "db74e099f2287bc3e4b7766906904d3791ec118a85b90f3b13626163bb699506480f5669c1460a19bd118e63a36ef0d7ebbb3b353082a2cc0d6a39ed121954fb"
+
+[update]
+[update.modrinth]
+mod-id = "RWVRgj8Z"
+version = "ummPPuQv"

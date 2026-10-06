@@ -12,6 +12,7 @@ The goal is vanilla gameplay that looks, sounds and runs better, plus a shared-h
 | Core | Fabric API | both |
 | Core | AppleSkin | both |
 | Core | VeinMiner (Miraculixx) | both |
+| Core | Day Counter (justwilly): shows "Day N" above the hotbar | server |
 | Performance | Sodium | client |
 | Performance | Lithium | both |
 | Performance | FerriteCore | both |
@@ -70,7 +71,7 @@ The pack auto-updates every time you launch, using [packwiz-installer](https://g
 
 7. Close the settings and **Launch**. On the first launch packwiz-installer downloads all mods. Accept any prompts it shows. Later launches pull in updates automatically.
 
-Server-only mods (Shared Health) are not installed on clients. They run on the server.
+Server-only mods (Shared Health, Day Counter) are not installed on clients. They run on the server.
 
 ## Server
 

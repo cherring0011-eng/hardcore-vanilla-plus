@@ -31,6 +31,11 @@ hash = "6baa77f8dfdd363b232f6ef69f0bfe07157a95cad34be2d3257f094fbae96fc5"
 metafile = true
 
 [[files]]
+file = "mods/daycounter.pw.toml"
+hash = "be2beccff1d2b35f9f30161ffdb92e6a9c26cd3ca77b1537c374b3cff237fc17"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "9ccaa582844d45222581b90ca5ce61acf117408c635b904673e1c4d89969f40b"
 metafile = true
