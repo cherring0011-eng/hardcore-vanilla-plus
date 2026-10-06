@@ -3,12 +3,14 @@
 ## Config (do not create these files until the mods have generated them)
 - [ ] **VeinMiner**: set activation to **keybind only**, and cut the hunger/exhaustion cost by **50%**. Launch once, find the generated config (and check whether Miraculixx's VeinMiner needs its separate client addon for keybind activation), then commit the config under `config/`.
 
-## Server (itzg/minecraft-server, set up later)
-- [ ] `VIEW_DISTANCE=20`
-- [ ] `SIMULATION_DISTANCE=10`
-- [ ] `HARDCORE=true`
-- [ ] Random seed (leave `SEED` unset)
-- [ ] `PACKWIZ_URL=https://raw.githubusercontent.com/cherring0011-eng/hardcore-vanilla-plus/main/pack.toml`
+## Server: running on Proxmox CT 107 `hardcore-mc` (192.168.4.103:25565)
+- [x] itzg/minecraft-server:java25 via Docker Compose at `/opt/hardcore-mc/compose.yaml` in CT 107
+- [x] `VIEW_DISTANCE=20`, `SIMULATION_DISTANCE=10`, `HARDCORE=true`, `DIFFICULTY=hard`, random seed (`SEED` unset), `MEMORY=8G`
+- [x] `PACKWIZ_URL` pointing at this repo (installs the 12 server/both mods)
+- [ ] Decide on whitelist (currently off) and ops
+- [ ] Remote access for friends outside the LAN (port forward or Tailscale)
+- [ ] Backups of `/opt/hardcore-mc/data/world`
+- [ ] Reserve 192.168.4.103 in the router's DHCP settings
 
 ## Skipped: no 26.2 Fabric build (add if official builds are released)
 - [ ] Enhanced Block Entities
