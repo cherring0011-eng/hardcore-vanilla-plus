@@ -7,7 +7,8 @@
 - [x] itzg/minecraft-server:java25 via Docker Compose at `/opt/hardcore-mc/compose.yaml` in CT 107
 - [x] `VIEW_DISTANCE=20`, `SIMULATION_DISTANCE=10`, `HARDCORE=true`, `DIFFICULTY=hard`, random seed (`SEED` unset), `MEMORY=8G`
 - [x] `PACKWIZ_URL` pointing at this repo (installs the 12 server/both mods)
-- [ ] Decide on whitelist (currently off) and ops
+- [x] Whitelist on and enforced (`ENABLE_WHITELIST`, `ENFORCE_WHITELIST`): FeelsLongMan, Oakshlam
+- [ ] Ops
 - [ ] Remote access for friends outside the LAN (port forward or Tailscale)
 - [ ] Backups of `/opt/hardcore-mc/data/world`
 - [ ] Reserve 192.168.4.103 in the router's DHCP settings
