@@ -22,8 +22,10 @@
 
 ## Coming later (planned custom work, not started)
 - [ ] Port Particulate (waterfall/splash particles) from 1.21.11 to 26.2
-- [ ] Port Diet (food groups) from 1.20.1 to 26.2
 - [ ] Custom "Food Buffs" mod: cooked foods give status buffs, 3 slots per player
+
+## Dropped
+- Diet: not porting (1.20.1-only, abandoned).
 
 ## Replaced
 - EMI → **JEI** 30.29.0.201 (stable). EMI's last release targets 1.21.1; there is an unmerged 1.21.11 port in emilyploszaj/emi#1169.

@@ -51,7 +51,6 @@ The goal is vanilla gameplay that looks, sounds and runs better, plus a shared-h
 Planned custom work, not started yet:
 
 - **Particulate** (waterfall and splash particles): port from 1.21.11 to 26.2.
-- **Diet** (food groups): port from 1.20.1 to 26.2.
 - **Food Buffs**, a custom mod: cooked foods give status buffs, with 3 buff slots per player.
 
 ## Installing (friends): Prism Launcher
