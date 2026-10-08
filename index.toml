@@ -171,6 +171,11 @@ hash = "38e2b038c4a76bd772f7f1fde2325a5bbe94bedb4ff152cc87fdd16f2fa0f869"
 metafile = true
 
 [[files]]
+file = "mods/veinminer-client.pw.toml"
+hash = "8432ec4cdff68438354720d533b028b369b0d1b9fb6fb2a26884855670f22c98"
+metafile = true
+
+[[files]]
 file = "mods/veinminer.pw.toml"
 hash = "b38381a74718c294570c2f59245deb3138ed3b19afb013d7ed915805f329565e"
 metafile = true

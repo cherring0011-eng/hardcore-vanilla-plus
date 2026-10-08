@@ -12,6 +12,7 @@ The goal is vanilla gameplay that looks, sounds and runs better, plus a shared-h
 | Core | Fabric API | both |
 | Core | AppleSkin | both |
 | Core | VeinMiner (Miraculixx) | both |
+| Core | VeinMiner Hotkey: the keybind for VeinMiner (required to vein-mine) | client |
 | Core | Day Counter (justwilly): shows "Day N" above the hotbar | server |
 | Performance | Sodium | client |
 | Performance | Lithium | both |

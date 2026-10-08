@@ -1,7 +1,7 @@
 # TODO
 
 ## Config (do not create these files until the mods have generated them)
-- [ ] **VeinMiner**: set activation to **keybind only**, and cut the hunger/exhaustion cost by **50%**. Launch once, find the generated config (and check whether Miraculixx's VeinMiner needs its separate client addon for keybind activation), then commit the config under `config/`.
+- [x] **VeinMiner**: keybind only. VeinMiner Hotkey (client) added; server `config/Veinminer/settings.json` has `client.require: true`. Hunger left at default (`hungerPerBlock: 0`, so only vanilla per-block exhaustion).
 
 ## Server: running on Proxmox CT 107 `hardcore-mc` (192.168.4.103:25565)
 - [x] itzg/minecraft-server:java25 via Docker Compose at `/opt/hardcore-mc/compose.yaml` in CT 107
