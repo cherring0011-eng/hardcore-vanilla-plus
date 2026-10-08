@@ -56,6 +56,8 @@ Planned custom work, not started yet:
 
 ## Installing (friends): Prism Launcher
 
+**Using Claude Code?** Paste the prompt from [CLAUDE_INSTALL.md](CLAUDE_INSTALL.md) and it will set everything up for you.
+
 The pack auto-updates every time you launch, using [packwiz-installer](https://github.com/packwiz/packwiz-installer).
 
 1. Install [Prism Launcher](https://prismlauncher.org/).
